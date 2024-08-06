@@ -14,12 +14,12 @@ The architecture is shown as follows:
 
 ![Leaderboard result](https://github.com/zgp123-wq/MEGC2024-STR/blob/main/figs/1722926399692.png)
 
-## ⤴️ Fine-tuning with pre-trained models
+## ⤴️ train models
 
 - 
 
     ```
-    sh finetune_cas_macro.sh
+    python train.py
     ```
-    just an example for fine-tuning, you might edit datasets.py, engine_for_finetuning.py, run_class_finetuning.py to suit your data
+    you might edit datasets.py, config.py, to suit your data
   
