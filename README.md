@@ -12,4 +12,3 @@ The architecture is shown as follows:
 
 ### ✨ MEGC 2024
 
-![Leaderboard result](https://codalab.lisn.upsaclay.fr/competitions/19359#results))
