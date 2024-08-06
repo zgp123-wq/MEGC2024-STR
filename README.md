@@ -7,3 +7,9 @@ Micro-expressions are subtle facial movements that reveal hidden emotions, but t
 
 The architecture is shown as follows:
 ![frame](https://github.com/zgp123-wq/MEGC2024-STR/blob/main/figs/model.jpg)
+
+## 🚀 Main Results
+
+### ✨ MEGC 2024
+
+![Leaderboard result](https://codalab.lisn.upsaclay.fr/competitions/19359#results))
