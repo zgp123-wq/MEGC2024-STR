@@ -12,3 +12,4 @@ The architecture is shown as follows:
 
 ### ✨ MEGC 2024
 
+![Leaderboard result](https://github.com/zgp123-wq/MEGC2024-STR/blob/main/figs/1722926399692.png)
